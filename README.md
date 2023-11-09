@@ -2,9 +2,10 @@
 
 TODO
 - Implement Arbiter Design from FSM
-- Test Arbiter Design
-- verify functionality of Buffer subblock 
-- Find Minimum Time Period from D-FF design (No need to connect INVx1 OR INVx16 in DUT)
+- Verify Arbiter Design
+- Verify functionality of Buffer subblock
+- Verify DFF functionality
+- Find Minimum Time Period from Final system schematic (No need to connect INVx1 OR INVx16 in DUT)
 
 
 DONE
