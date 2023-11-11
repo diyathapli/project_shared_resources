@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      keko
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              216674
+ProcessCreationTime_UTC        1699725095
+ProcessCreationTime_Readable   Sat Nov 11 09:51:35 2023 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/viterbi/09/keko/work_gpdk045/Project/System/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Nov 11 10:00:35 2023 PST
