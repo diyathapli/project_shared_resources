@@ -5,7 +5,7 @@ tunit ns
 slope 0.01
 vih 1.8
 vil 0.0
-period 5
+period 2
 
 0 0 0 0 0 0 0
 0 0 3 A 0 0 1
