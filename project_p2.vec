@@ -1,0 +1,15 @@
+radix 4 4 4 4 1 1 1
+io i i i i i i i
+vname INA<[3:0]> INB<[3:0]> IND<[3:0]> INdv<[3:0]> IN_reqM IN_reqD RESET
+tunit ns
+slope 0.01
+vih 1.8
+vil 0.0
+period 5
+
+0 0 0 0 0 0 0
+0 0 3 A 0 0 1
+7 5 F 5 0 1 1
+A 0 7 A 1 1 1
+F 3 E 2 1 0 1
+
