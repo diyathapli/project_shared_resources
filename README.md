@@ -20,4 +20,5 @@ DONE:
 - Layout FA
 - Layout AND
 - Layout OR
+- Layout XOR
 - Layout Buffer
