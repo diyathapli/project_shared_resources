@@ -1,14 +1,23 @@
 # project_shared_resources
 
-TODO
-- Implement Arbiter Design from FSM
-- Verify Arbiter Design
-- Find Minimum Time Period from Final system schematic (No need to connect INVx1 OR INVx16 in DUT)
+TODO:
+- Layout HS
+- Layout FS
+- Layout MUX
+- Layout HS_MUX
+- Layout FS_MUX
+- Layout DIV
+- Layout DFF
+- Layout Buffer
+- Layout System
+- Functional Verfication MULT
+- Functional Verification DIV
+- Functional Verification System
 
+In-Progress:
+- Layout MULT (Diya)
 
-DONE
-- Design FSM
-- Design a D-FF
-- Design Buffer subblock
-- Verify functionality of Buffer subblock
-- Verify DFF functionality
+DONE:
+- Layout FA
+- Layout AND
+- Layout OR
