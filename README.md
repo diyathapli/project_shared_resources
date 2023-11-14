@@ -1,7 +1,6 @@
 # project_shared_resources
 
 TODO:
-- Layout HS
 - Layout FS
 - Layout MUX
 - Layout HS_MUX
@@ -22,3 +21,4 @@ DONE:
 - Layout OR
 - Layout XOR
 - Layout Buffer
+- Layout HS
