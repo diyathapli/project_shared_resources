@@ -8,7 +8,6 @@ TODO:
 - Layout FS_MUX
 - Layout DIV
 - Layout DFF
-- Layout Buffer
 - Layout System
 - Functional Verfication MULT
 - Functional Verification DIV
@@ -21,3 +20,4 @@ DONE:
 - Layout FA
 - Layout AND
 - Layout OR
+- Layout Buffer
