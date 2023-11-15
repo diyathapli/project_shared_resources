@@ -2,7 +2,6 @@
 
 TODO:
 - Layout FS
-- Layout MUX
 - Layout HS_MUX
 - Layout FS_MUX
 - Layout DIV
@@ -22,3 +21,4 @@ DONE:
 - Layout XOR
 - Layout Buffer
 - Layout HS
+- Layout MUX
