@@ -12,7 +12,7 @@ TODO:
 - Functional Verification System
 
 In-Progress:
-- Layout MULT (Diya)
+
 
 DONE:
 - Layout FA
@@ -22,3 +22,4 @@ DONE:
 - Layout Buffer
 - Layout HS
 - Layout MUX
+- Layout MULT (Diya)
