@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sat Nov 18 16:57:10 2023 PST
 AppIdentifier                  /usr/local/cadence/IC617/tools/dfII/bin/64bit/virtuoso
 OSType                         lnx86
 ReasonForPlacingEditLock       
-FilePathUsedToEditLock         /home/viterbi/06/dthapliy/work_gpdk045/Project/MULT/constraint/prop.cfg
-TimeEditLocked                 Sat Nov 18 17:00:14 2023 PST
+FilePathUsedToEditLock         /home/viterbi/06/dthapliy/work_gpdk045/Project/MULT/physConfig/physExpand.cfg
+TimeEditLocked                 Sat Nov 18 18:07:17 2023 PST
