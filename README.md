@@ -1,7 +1,6 @@
 # project_shared_resources
 
 TODO:
-- Layout FS
 - Layout HS_MUX
 - Layout FS_MUX
 - Layout DIV
@@ -15,6 +14,7 @@ In-Progress:
 
 
 DONE:
+- Layout FS
 - Layout FA
 - Layout AND
 - Layout OR
