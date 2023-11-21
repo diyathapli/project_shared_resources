@@ -4,7 +4,9 @@ TODO:
 - Layout HS_MUX
 - Layout DIV
 - Layout DFF
+- Layout Arbiter
 - Layout System
+- Functional Verification Arbiter
 - Functional Verfication MULT
 - Functional Verification DIV
 - Functional Verification System
