@@ -14,7 +14,7 @@ In-Progress:
 
 
 DONE:
-- Layout FS
+- Layout FS (not uploaded)
 - Layout FA
 - Layout AND
 - Layout OR
