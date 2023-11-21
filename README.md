@@ -1,7 +1,6 @@
 # project_shared_resources
 
 TODO:
-- Layout HS_MUX
 - Layout DIV
 - Layout DFF
 - Layout Arbiter
@@ -25,3 +24,4 @@ DONE:
 - Layout HS
 - Layout MUX
 - Layout MULT (Diya)
+- Layout HS_MUX
