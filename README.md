@@ -2,7 +2,6 @@
 
 TODO:
 - Layout HS_MUX
-- Layout FS_MUX
 - Layout DIV
 - Layout DFF
 - Layout System
@@ -14,6 +13,7 @@ In-Progress:
 
 
 DONE:
+- Layout FS_MUX (not uploaded)
 - Layout FS (not uploaded)
 - Layout FA
 - Layout AND
