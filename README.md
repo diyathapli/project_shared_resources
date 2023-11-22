@@ -2,7 +2,6 @@
 
 TODO:
 - Layout DIV
-- Layout DFF
 - Layout Arbiter
 - Layout System
 - Functional Verification Arbiter
@@ -25,3 +24,4 @@ DONE:
 - Layout MUX
 - Layout MULT (Diya)
 - Layout HS_MUX
+- Layout DFF
