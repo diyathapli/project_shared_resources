@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Mon Nov 20 23:03:45 2023 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/viterbi/03/fklo/work_gpdk045/Project/FS_MUX/schematic/sch.oa.cdslck
-TimeEditLocked                 Tue Nov 21 02:36:45 2023 PST
+FilePathUsedToEditLock         /home/viterbi/03/fklo/work_gpdk045/Project/FS_MUX/constraint/hierDesign.oa.cdslck
+TimeEditLocked                 Tue Nov 21 02:36:58 2023 PST

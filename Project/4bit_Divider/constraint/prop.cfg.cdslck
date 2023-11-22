@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      keko
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              78379
+ProcessCreationTime_UTC        1700542723
+ProcessCreationTime_Readable   Mon Nov 20 20:58:43 2023 PST
+AppIdentifier                  /usr/local/cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/viterbi/09/keko/work_gpdk045/Project/4bit_Divider/constraint/prop.cfg
+TimeEditLocked                 Tue Nov 21 18:08:37 2023 PST
