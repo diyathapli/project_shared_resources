@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      keko
 HostName                       viterbi-scf2.usc.edu
-ProcessIdentifier              119814
-ProcessCreationTime_UTC        1699592655
-ProcessCreationTime_Readable   Thu Nov  9 21:04:15 2023 PST
+ProcessIdentifier              78379
+ProcessCreationTime_UTC        1700542726
+ProcessCreationTime_Readable   Mon Nov 20 20:58:46 2023 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/viterbi/09/keko/work_gpdk045/ee477/HS/schematic/sch.oa.cdslck
-TimeEditLocked                 Thu Nov  9 21:07:51 2023 PST
+FilePathUsedToEditLock         /home/viterbi/09/keko/work_gpdk045/Project/HS_MUX/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Nov 21 11:57:29 2023 PST
