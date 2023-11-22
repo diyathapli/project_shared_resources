@@ -8,6 +8,7 @@ TODO:
 - Functional Verfication MULT
 - Functional Verification DIV
 - Functional Verification System
+- Performance metrics calculation (need PAD for both schematic and extracted)
 
 In-Progress:
 
