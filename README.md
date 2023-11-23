@@ -14,6 +14,7 @@ In-Progress:
 
 
 DONE:
+- Layout 8bit mux(not uploaded)
 - Layout FS_MUX (not uploaded)
 - Layout FS (not uploaded)
 - Layout FA
