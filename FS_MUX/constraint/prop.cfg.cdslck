@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      fklo
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              30485
+ProcessCreationTime_UTC        1700550223
+ProcessCreationTime_Readable   Mon Nov 20 23:03:43 2023 PST
+AppIdentifier                  /usr/local/cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/viterbi/03/fklo/work_gpdk045/Project/FS_MUX/constraint/prop.cfg
+TimeEditLocked                 Tue Nov 21 02:36:58 2023 PST

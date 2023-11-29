@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      fklo
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              23292
+ProcessCreationTime_UTC        1701157360
+ProcessCreationTime_Readable   Mon Nov 27 23:42:40 2023 PST
+AppIdentifier                  /usr/local/cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/viterbi/03/fklo/work_gpdk045/Project/4bit_Divider/physConfig/physExpand.cfg
+TimeEditLocked                 Mon Nov 27 23:47:09 2023 PST
