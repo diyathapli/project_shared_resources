@@ -1,6 +1,6 @@
 radix 4 4 4 4 1 1 1
 io i i i i i i i 
-vname INA<[3:0]> INB<[3:0]> IND<[3:0}> INdv<3:0> IN_reqM IN_reqD RESET
+vname INA<[3:0]> INB<[3:0]> IND<[3:0]> INdv<[3:0]> IN_reqM IN_reqD RESET
 tunit ns
 slope 0.01
 vih 1.0
