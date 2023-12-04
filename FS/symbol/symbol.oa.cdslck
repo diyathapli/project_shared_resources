@@ -4,13 +4,13 @@
 # Information about current Edit Lock Owner.
 #
 LockStakeVersion               1.1
-LoginName                      keko
+LoginName                      fklo
 HostName                       viterbi-scf2.usc.edu
-ProcessIdentifier              152494
-ProcessCreationTime_UTC        1699208415
-ProcessCreationTime_Readable   Sun Nov  5 10:20:15 2023 PST
+ProcessIdentifier              312243
+ProcessCreationTime_UTC        1701570017
+ProcessCreationTime_Readable   Sat Dec  2 18:20:17 2023 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/viterbi/09/keko/work_gpdk045/ee477/FS/symbol/symbol.oa.cdslck
-TimeEditLocked                 Sun Nov  5 11:13:05 2023 PST
+FilePathUsedToEditLock         /home/viterbi/03/fklo/work_gpdk045/Project/FS/symbol/symbol.oa.cdslck.dirlck
+TimeEditLocked                 Sun Dec  3 00:31:32 2023 PST

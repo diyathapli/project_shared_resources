@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      fklo
 HostName                       viterbi-scf2.usc.edu
-ProcessIdentifier              30485
-ProcessCreationTime_UTC        1700550225
-ProcessCreationTime_Readable   Mon Nov 20 23:03:45 2023 PST
+ProcessIdentifier              158008
+ProcessCreationTime_UTC        1701507736
+ProcessCreationTime_Readable   Sat Dec  2 01:02:16 2023 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/viterbi/03/fklo/work_gpdk045/Project/FS/constraint/hierDesign.oa.cdslck
-TimeEditLocked                 Tue Nov 21 01:19:40 2023 PST
+FilePathUsedToEditLock         /home/viterbi/03/fklo/work_gpdk045/Project/FS/constraint/hierDesign.oa.cdslck.dirlck
+TimeEditLocked                 Sat Dec  2 15:29:11 2023 PST
